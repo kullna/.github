@@ -14,7 +14,7 @@ Our aspiration is to cultivate a love for learning, stimulate boundless curiosit
 
 In our mission, we see the potential for a better future for all of us. We're taking it one line of code at a time.
 
-## :wave: Welcome!
+## :wave: Our Story
 
 My name is Steven Wright, the original creator of Kullna. As a software engineer, ex-Googler, and a two-time founder of successful tech startups, I've been fortunate to have a career that lets me do what I love every day – programming. A passion sparked when I was just 10 years old, finding a manual for BASIC and teaching myself how to code on our home computer.
 
