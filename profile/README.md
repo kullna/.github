@@ -1,5 +1,7 @@
 # The Kullna Programming Language Project
 
+Welcome to the **Kullna Programming Language Project** - an open-source initiative that makes learning to code fun and easy for everyone!
+
 ## :star: Our Mission
 
 Our mission is simple yet profound: **to open a door into the world of coding for children worldwide**. To realize this mission, we are crafting a unique programming language that empowers users to code in their native tongue.
@@ -13,6 +15,8 @@ We recognize that every child holds immense potential, and it is our goal to hel
 Our aspiration is to cultivate a love for learning, stimulate boundless curiosity, and bolster the confidence of every child. We want them to understand that they have the potential to change the world.
 
 In our mission, we see the potential for a better future for all of us. We're taking it one line of code at a time.
+
+Have more questions about Kullna? Check out our [Frequently Asked Questions](http://www.kullna.org/docs/#/FAQ) page, or reach out on [Discord](http://discord.kullna.org)!
 
 ## :wave: Our Story
 
@@ -33,3 +37,17 @@ We're working tirelessly from San Francisco, CA, and Baghdad, Iraq, to make this
 I invite you to join us in this mission. Let's work together to create a world where coding truly is for "all of us."
 
 :heart: Steven Wright, Founder of Kullna.org
+
+## :handshake: Contributing
+
+The Kullna Programming Language Project is not merely a programming language; it's an evolving community. We are passionately dedicated to empowering individuals from all walks of life to engage with coding. We warmly invite everyone who shares our mission to join us in shaping a brighter, more inclusive future.
+
+Contributions can take many forms, and we encourage participation from developers, designers, and prospective users alike.
+
+Please see the [Contributor's Guide](http://www.kullna.org/docs/#/CONTRIBUTING) to learn how you can help, and reach out on [Discord](http://discord.kullna.org)!
+
+---
+
+Copyright &copy; 2022-2023 [The Kullna Programming Language Project](http://www.kullna.org).
+
+[![License: GPL v3](gpl-v3-badge.svg)](LICENSE.md)
