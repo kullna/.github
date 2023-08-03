@@ -1,6 +1,6 @@
 # The Kullna Programming Language Project
 
-Welcome to the **Kullna Programming Language Project** - an open-source initiative that makes learning to code fun and easy for everyone!
+Welcome to the **Kullna Programming Language Project** - a free-to-use and open-source initiative that makes learning to code fun and easy for everyone!
 
 ## :star: Our Mission
 
@@ -49,5 +49,3 @@ Please see the [Contributor's Guide](http://www.kullna.org/docs/#/CONTRIBUTING) 
 ---
 
 Copyright &copy; 2022-2023 [The Kullna Programming Language Project](http://www.kullna.org).
-
-[![License: GPL v3](https://raw.githubusercontent.com/kullna/.github/main/profile/gpl-v3-badge.svg)](http://www.kullna.org/docs/#/LICENSE)
